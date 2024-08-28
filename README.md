@@ -34,7 +34,7 @@ The dataset used in this project contains 1,149,780 ratings. Due to the computat
 ## How to Run
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
+    git clone https://github.com/madalin312/bayesian_neural_network
     ```
 2. Install the necessary dependencies:
     ```bash
